@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A81AD782-5D59-4F69-93C7-DC523364A295</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Trilingual</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2CD7D0B2-AB8B-4A8A-B51A-05BE711FD780</key>
+		<string>file:///Users/hardboiled65/Documents/Trilingual/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Trilingual.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2CD7D0B2-AB8B-4A8A-B51A-05BE711FD780</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>file:///Users/hardboiled65/Documents/Trilingual/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2CD7D0B2-AB8B-4A8A-B51A-05BE711FD780</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CD7D0B2-AB8B-4A8A-B51A-05BE711FD780</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Trilingual</string>
+		</dict>
+	</array>
+</dict>
+</plist>
