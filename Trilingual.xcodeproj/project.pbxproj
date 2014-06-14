@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		910CC6F0194D0B1100C55A75 /* easter.png in Resources */ = {isa = PBXBuildFile; fileRef = 910CC6EF194D0B1100C55A75 /* easter.png */; };
 		918C7646194CD25B00E42F70 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 918C7645194CD25B00E42F70 /* icon.png */; };
-		918C764C194CD61000E42F70 /* easter.png in Resources */ = {isa = PBXBuildFile; fileRef = 918C764B194CD61000E42F70 /* easter.png */; };
 		918C764F194CD87B00E42F70 /* statusicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 918C764E194CD87B00E42F70 /* statusicon.png */; };
 		919F8540194A53CF00EBE8D2 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 919F853F194A53CF00EBE8D2 /* TableViewController.m */; };
 		919F8543194A54B100EBE8D2 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 919F8542194A54B100EBE8D2 /* Item.m */; };
@@ -39,9 +39,9 @@
 
 /* Begin PBXFileReference section */
 		910CC6ED194D00F300C55A75 /* Trilingual-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Trilingual-Prefix.pch"; sourceTree = "<group>"; };
+		910CC6EF194D0B1100C55A75 /* easter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = easter.png; sourceTree = "<group>"; };
 		9142ABFC194B6DE8003BE5CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		918C7645194CD25B00E42F70 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = Images.xcassets/AppIcon.appiconset/icon.png; sourceTree = "<group>"; };
-		918C764B194CD61000E42F70 /* easter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = easter.png; path = ../easter.png; sourceTree = "<group>"; };
 		918C764E194CD87B00E42F70 /* statusicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = statusicon.png; sourceTree = "<group>"; };
 		918C7650194CDC0800E42F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Base; path = Base.lproj/Credits.rtf; sourceTree = "<group>"; };
 		918C7652194CDEAB00E42F70 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -158,8 +158,8 @@
 				910CC6ED194D00F300C55A75 /* Trilingual-Prefix.pch */,
 				91DB73B51944A73E00A8C45F /* Credits.rtf */,
 				918C7645194CD25B00E42F70 /* icon.png */,
-				918C764B194CD61000E42F70 /* easter.png */,
 				918C764E194CD87B00E42F70 /* statusicon.png */,
+				910CC6EF194D0B1100C55A75 /* easter.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91DB73B11944A73E00A8C45F /* InfoPlist.strings in Resources */,
-				918C764C194CD61000E42F70 /* easter.png in Resources */,
+				910CC6F0194D0B1100C55A75 /* easter.png in Resources */,
 				91DB73BF1944A73E00A8C45F /* Images.xcassets in Resources */,
 				91DB73B71944A73E00A8C45F /* Credits.rtf in Resources */,
 				918C764F194CD87B00E42F70 /* statusicon.png in Resources */,
